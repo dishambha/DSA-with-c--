@@ -1,0 +1,14 @@
+ // list.insertAtTail(70);
+    // list.insertAtHead(5);
+    // list.display();
+    // list.deleteAtHead();
+    // list.display();
+    // list.deleteAtTail();
+    // list.display();
+    // list.insertAtTail(80);
+    // list.deleteAtIdx(3);
+    // list.display();
+    // list.insertAtTail(40);
+    // list.insertAtHead(90);
+    // list.display();
+    // cout<<list.getAtIdx(0);
